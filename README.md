@@ -1,2 +1,4 @@
 # hello-world
-First Test Repository
+
+<b>Midway Bible Church</b>
+<p>We are a gospel centered church</p>
